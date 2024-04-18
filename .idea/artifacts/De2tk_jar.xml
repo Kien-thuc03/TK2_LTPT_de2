@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="De2tk:jar">
+    <output-path>$PROJECT_DIR$/../De2tk_Client/lib</output-path>
+    <root id="archive" name="De2tk.jar">
+      <element id="module-output" name="De2tk" />
+    </root>
+  </artifact>
+</component>
